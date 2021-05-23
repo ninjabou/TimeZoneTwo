@@ -1,0 +1,16 @@
+{
+  "name": "timezonetwo",
+  "version": "1.0.0",
+  "description": "a small multipurpose and time zone bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ninjabou",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "spacetime": "^6.16.1",
+    "timezone-soft": "^1.2.0"
+  }
+}
